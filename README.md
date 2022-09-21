@@ -1,1 +1,1 @@
-Project DOES NOT work on Brave
+Project DOES NOT work on Brave Browser
